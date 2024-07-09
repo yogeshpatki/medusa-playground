@@ -1,1 +1,6 @@
 .venv
+.plugins
+.tracks
+.mixes
+.vscode
+.playground
