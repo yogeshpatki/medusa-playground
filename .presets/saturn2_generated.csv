@@ -1,0 +1,956 @@
+input_gain,16.0
+input_pan,Left: 0 dB / Right: 0 dB
+output_gain,-15.98
+output_pan,Left: 0 dB / Right: 0 dB
+bypass,Not Bypassed
+mix,100.0
+num_active_bands,1.0
+band_1_feedback_amount,0.0
+band_1_feedback_frequency,250.0
+band_1_dynamics,0.1
+band_1_style,Subtle Tube
+band_1_drive,0.0
+band_1_drive_pan,0.0
+band_1_bass,0.0
+band_1_mid,2.5
+band_1_treble,0.0
+band_1_presence,0.0
+band_1_mix,100.0
+band_1_level,0.22
+band_1_pan,Left: 0 dB / Right: 0 dB
+band_1_enabled,True
+band_1_state,Normal
+band_1_crossover_frequency,40.0
+band_1_crossover_slope,24 dB/oct
+band_2_feedback_amount,0.0
+band_2_feedback_frequency,250.0
+band_2_dynamics,0.0
+band_2_style,Clean Tube
+band_2_drive,0.0
+band_2_drive_pan,0.0
+band_2_bass,0.0
+band_2_mid,0.0
+band_2_treble,0.0
+band_2_presence,0.0
+band_2_mix,100.0
+band_2_level,0.0
+band_2_pan,Left: 0 dB / Right: 0 dB
+band_2_enabled,True
+band_2_state,Normal
+band_2_crossover_frequency,40.0
+band_2_crossover_slope,24 dB/oct
+band_3_feedback_amount,0.0
+band_3_feedback_frequency,250.0
+band_3_dynamics,0.0
+band_3_style,Clean Tube
+band_3_drive,0.0
+band_3_drive_pan,0.0
+band_3_bass,0.0
+band_3_mid,0.0
+band_3_treble,0.0
+band_3_presence,0.0
+band_3_mix,100.0
+band_3_level,0.0
+band_3_pan,Left: 0 dB / Right: 0 dB
+band_3_enabled,True
+band_3_state,Normal
+band_3_crossover_frequency,40.0
+band_3_crossover_slope,24 dB/oct
+band_4_feedback_amount,0.0
+band_4_feedback_frequency,250.0
+band_4_dynamics,0.0
+band_4_style,Clean Tube
+band_4_drive,0.0
+band_4_drive_pan,0.0
+band_4_bass,0.0
+band_4_mid,0.0
+band_4_treble,0.0
+band_4_presence,0.0
+band_4_mix,100.0
+band_4_level,0.0
+band_4_pan,Left: 0 dB / Right: 0 dB
+band_4_enabled,True
+band_4_state,Normal
+band_4_crossover_frequency,40.0
+band_4_crossover_slope,24 dB/oct
+band_5_feedback_amount,0.0
+band_5_feedback_frequency,250.0
+band_5_dynamics,0.0
+band_5_style,Clean Tube
+band_5_drive,0.0
+band_5_drive_pan,0.0
+band_5_bass,0.0
+band_5_mid,0.0
+band_5_treble,0.0
+band_5_presence,0.0
+band_5_mix,100.0
+band_5_level,0.0
+band_5_pan,Left: 0 dB / Right: 0 dB
+band_5_enabled,True
+band_5_state,Normal
+band_5_crossover_frequency,40.0
+band_5_crossover_slope,24 dB/oct
+band_6_feedback_amount,0.0
+band_6_feedback_frequency,250.0
+band_6_dynamics,0.0
+band_6_style,Clean Tube
+band_6_drive,0.0
+band_6_drive_pan,0.0
+band_6_bass,0.0
+band_6_mid,0.0
+band_6_treble,0.0
+band_6_presence,0.0
+band_6_mix,100.0
+band_6_level,0.0
+band_6_pan,Left: 0 dB / Right: 0 dB
+band_6_enabled,True
+band_6_state,Normal
+band_6_crossover_frequency,40.0
+band_6_crossover_slope,24 dB/oct
+num_active_xy_controllers,1.0
+xy_controller_1_hor,0.0
+xy_controller_1_ver,0.0
+xy_controller_1_mode,Slider
+xy_controller_1_range,Positive (0 ... 1)
+xy_controller_2_hor,0.0
+xy_controller_2_ver,0.0
+xy_controller_2_mode,XY
+xy_controller_2_range,Centered (-1 ... 1)
+xy_controller_3_hor,0.0
+xy_controller_3_ver,0.0
+xy_controller_3_mode,XY
+xy_controller_3_range,Centered (-1 ... 1)
+xy_controller_4_hor,0.0
+xy_controller_4_ver,0.0
+xy_controller_4_mode,XY
+xy_controller_4_range,Centered (-1 ... 1)
+xy_controller_5_hor,0.0
+xy_controller_5_ver,0.0
+xy_controller_5_mode,XY
+xy_controller_5_range,Centered (-1 ... 1)
+xy_controller_6_hor,0.0
+xy_controller_6_ver,0.0
+xy_controller_6_mode,XY
+xy_controller_6_range,Centered (-1 ... 1)
+num_active_xlfos,0.0
+xlfo_1_frequency,1.0
+xlfo_1_frequency_offset,1.0
+xlfo_1_balance,0.5
+xlfo_1_phase_offset,0.0
+xlfo_1_glide,0.0
+xlfo_1_sync_mode,Free
+xlfo_1_midi_trigger,Off
+xlfo_1_snap,No Snap
+num_active_xlfo_1_steps,2.0
+xlfo_1_step_1_value,0.0
+xlfo_1_step_1_glide,0.0
+xlfo_1_step_1_glide_function,Linear
+xlfo_1_step_1_random,Fixed
+xlfo_1_step_2_value,0.0
+xlfo_1_step_2_glide,0.0
+xlfo_1_step_2_glide_function,Linear
+xlfo_1_step_2_random,Fixed
+xlfo_1_step_3_value,0.0
+xlfo_1_step_3_glide,0.0
+xlfo_1_step_3_glide_function,Linear
+xlfo_1_step_3_random,Fixed
+xlfo_1_step_4_value,0.0
+xlfo_1_step_4_glide,0.0
+xlfo_1_step_4_glide_function,Linear
+xlfo_1_step_4_random,Fixed
+xlfo_1_step_5_value,0.0
+xlfo_1_step_5_glide,0.0
+xlfo_1_step_5_glide_function,Linear
+xlfo_1_step_5_random,Fixed
+xlfo_1_step_6_value,0.0
+xlfo_1_step_6_glide,0.0
+xlfo_1_step_6_glide_function,Linear
+xlfo_1_step_6_random,Fixed
+xlfo_1_step_7_value,0.0
+xlfo_1_step_7_glide,0.0
+xlfo_1_step_7_glide_function,Linear
+xlfo_1_step_7_random,Fixed
+xlfo_1_step_8_value,0.0
+xlfo_1_step_8_glide,0.0
+xlfo_1_step_8_glide_function,Linear
+xlfo_1_step_8_random,Fixed
+xlfo_1_step_9_value,0.0
+xlfo_1_step_9_glide,0.0
+xlfo_1_step_9_glide_function,Linear
+xlfo_1_step_9_random,Fixed
+xlfo_1_step_10_value,0.0
+xlfo_1_step_10_glide,0.0
+xlfo_1_step_10_glide_function,Linear
+xlfo_1_step_10_random,Fixed
+xlfo_1_step_11_value,0.0
+xlfo_1_step_11_glide,0.0
+xlfo_1_step_11_glide_function,Linear
+xlfo_1_step_11_random,Fixed
+xlfo_1_step_12_value,0.0
+xlfo_1_step_12_glide,0.0
+xlfo_1_step_12_glide_function,Linear
+xlfo_1_step_12_random,Fixed
+xlfo_1_step_13_value,0.0
+xlfo_1_step_13_glide,0.0
+xlfo_1_step_13_glide_function,Linear
+xlfo_1_step_13_random,Fixed
+xlfo_1_step_14_value,0.0
+xlfo_1_step_14_glide,0.0
+xlfo_1_step_14_glide_function,Linear
+xlfo_1_step_14_random,Fixed
+xlfo_1_step_15_value,0.0
+xlfo_1_step_15_glide,0.0
+xlfo_1_step_15_glide_function,Linear
+xlfo_1_step_15_random,Fixed
+xlfo_1_step_16_value,0.0
+xlfo_1_step_16_glide,0.0
+xlfo_1_step_16_glide_function,Linear
+xlfo_1_step_16_random,Fixed
+xlfo_2_frequency,1.0
+xlfo_2_frequency_offset,1.0
+xlfo_2_balance,0.5
+xlfo_2_phase_offset,0.0
+xlfo_2_glide,0.0
+xlfo_2_sync_mode,Free
+xlfo_2_midi_trigger,Off
+xlfo_2_snap,No Snap
+num_active_xlfo_2_steps,2.0
+xlfo_2_step_1_value,0.0
+xlfo_2_step_1_glide,0.0
+xlfo_2_step_1_glide_function,Linear
+xlfo_2_step_1_random,Fixed
+xlfo_2_step_2_value,0.0
+xlfo_2_step_2_glide,0.0
+xlfo_2_step_2_glide_function,Linear
+xlfo_2_step_2_random,Fixed
+xlfo_2_step_3_value,0.0
+xlfo_2_step_3_glide,0.0
+xlfo_2_step_3_glide_function,Linear
+xlfo_2_step_3_random,Fixed
+xlfo_2_step_4_value,0.0
+xlfo_2_step_4_glide,0.0
+xlfo_2_step_4_glide_function,Linear
+xlfo_2_step_4_random,Fixed
+xlfo_2_step_5_value,0.0
+xlfo_2_step_5_glide,0.0
+xlfo_2_step_5_glide_function,Linear
+xlfo_2_step_5_random,Fixed
+xlfo_2_step_6_value,0.0
+xlfo_2_step_6_glide,0.0
+xlfo_2_step_6_glide_function,Linear
+xlfo_2_step_6_random,Fixed
+xlfo_2_step_7_value,0.0
+xlfo_2_step_7_glide,0.0
+xlfo_2_step_7_glide_function,Linear
+xlfo_2_step_7_random,Fixed
+xlfo_2_step_8_value,0.0
+xlfo_2_step_8_glide,0.0
+xlfo_2_step_8_glide_function,Linear
+xlfo_2_step_8_random,Fixed
+xlfo_2_step_9_value,0.0
+xlfo_2_step_9_glide,0.0
+xlfo_2_step_9_glide_function,Linear
+xlfo_2_step_9_random,Fixed
+xlfo_2_step_10_value,0.0
+xlfo_2_step_10_glide,0.0
+xlfo_2_step_10_glide_function,Linear
+xlfo_2_step_10_random,Fixed
+xlfo_2_step_11_value,0.0
+xlfo_2_step_11_glide,0.0
+xlfo_2_step_11_glide_function,Linear
+xlfo_2_step_11_random,Fixed
+xlfo_2_step_12_value,0.0
+xlfo_2_step_12_glide,0.0
+xlfo_2_step_12_glide_function,Linear
+xlfo_2_step_12_random,Fixed
+xlfo_2_step_13_value,0.0
+xlfo_2_step_13_glide,0.0
+xlfo_2_step_13_glide_function,Linear
+xlfo_2_step_13_random,Fixed
+xlfo_2_step_14_value,0.0
+xlfo_2_step_14_glide,0.0
+xlfo_2_step_14_glide_function,Linear
+xlfo_2_step_14_random,Fixed
+xlfo_2_step_15_value,0.0
+xlfo_2_step_15_glide,0.0
+xlfo_2_step_15_glide_function,Linear
+xlfo_2_step_15_random,Fixed
+xlfo_2_step_16_value,0.0
+xlfo_2_step_16_glide,0.0
+xlfo_2_step_16_glide_function,Linear
+xlfo_2_step_16_random,Fixed
+xlfo_3_frequency,1.0
+xlfo_3_frequency_offset,1.0
+xlfo_3_balance,0.5
+xlfo_3_phase_offset,0.0
+xlfo_3_glide,0.0
+xlfo_3_sync_mode,Free
+xlfo_3_midi_trigger,Off
+xlfo_3_snap,No Snap
+num_active_xlfo_3_steps,2.0
+xlfo_3_step_1_value,0.0
+xlfo_3_step_1_glide,0.0
+xlfo_3_step_1_glide_function,Linear
+xlfo_3_step_1_random,Fixed
+xlfo_3_step_2_value,0.0
+xlfo_3_step_2_glide,0.0
+xlfo_3_step_2_glide_function,Linear
+xlfo_3_step_2_random,Fixed
+xlfo_3_step_3_value,0.0
+xlfo_3_step_3_glide,0.0
+xlfo_3_step_3_glide_function,Linear
+xlfo_3_step_3_random,Fixed
+xlfo_3_step_4_value,0.0
+xlfo_3_step_4_glide,0.0
+xlfo_3_step_4_glide_function,Linear
+xlfo_3_step_4_random,Fixed
+xlfo_3_step_5_value,0.0
+xlfo_3_step_5_glide,0.0
+xlfo_3_step_5_glide_function,Linear
+xlfo_3_step_5_random,Fixed
+xlfo_3_step_6_value,0.0
+xlfo_3_step_6_glide,0.0
+xlfo_3_step_6_glide_function,Linear
+xlfo_3_step_6_random,Fixed
+xlfo_3_step_7_value,0.0
+xlfo_3_step_7_glide,0.0
+xlfo_3_step_7_glide_function,Linear
+xlfo_3_step_7_random,Fixed
+xlfo_3_step_8_value,0.0
+xlfo_3_step_8_glide,0.0
+xlfo_3_step_8_glide_function,Linear
+xlfo_3_step_8_random,Fixed
+xlfo_3_step_9_value,0.0
+xlfo_3_step_9_glide,0.0
+xlfo_3_step_9_glide_function,Linear
+xlfo_3_step_9_random,Fixed
+xlfo_3_step_10_value,0.0
+xlfo_3_step_10_glide,0.0
+xlfo_3_step_10_glide_function,Linear
+xlfo_3_step_10_random,Fixed
+xlfo_3_step_11_value,0.0
+xlfo_3_step_11_glide,0.0
+xlfo_3_step_11_glide_function,Linear
+xlfo_3_step_11_random,Fixed
+xlfo_3_step_12_value,0.0
+xlfo_3_step_12_glide,0.0
+xlfo_3_step_12_glide_function,Linear
+xlfo_3_step_12_random,Fixed
+xlfo_3_step_13_value,0.0
+xlfo_3_step_13_glide,0.0
+xlfo_3_step_13_glide_function,Linear
+xlfo_3_step_13_random,Fixed
+xlfo_3_step_14_value,0.0
+xlfo_3_step_14_glide,0.0
+xlfo_3_step_14_glide_function,Linear
+xlfo_3_step_14_random,Fixed
+xlfo_3_step_15_value,0.0
+xlfo_3_step_15_glide,0.0
+xlfo_3_step_15_glide_function,Linear
+xlfo_3_step_15_random,Fixed
+xlfo_3_step_16_value,0.0
+xlfo_3_step_16_glide,0.0
+xlfo_3_step_16_glide_function,Linear
+xlfo_3_step_16_random,Fixed
+xlfo_4_frequency,1.0
+xlfo_4_frequency_offset,1.0
+xlfo_4_balance,0.5
+xlfo_4_phase_offset,0.0
+xlfo_4_glide,0.0
+xlfo_4_sync_mode,Free
+xlfo_4_midi_trigger,Off
+xlfo_4_snap,No Snap
+num_active_xlfo_4_steps,2.0
+xlfo_4_step_1_value,0.0
+xlfo_4_step_1_glide,0.0
+xlfo_4_step_1_glide_function,Linear
+xlfo_4_step_1_random,Fixed
+xlfo_4_step_2_value,0.0
+xlfo_4_step_2_glide,0.0
+xlfo_4_step_2_glide_function,Linear
+xlfo_4_step_2_random,Fixed
+xlfo_4_step_3_value,0.0
+xlfo_4_step_3_glide,0.0
+xlfo_4_step_3_glide_function,Linear
+xlfo_4_step_3_random,Fixed
+xlfo_4_step_4_value,0.0
+xlfo_4_step_4_glide,0.0
+xlfo_4_step_4_glide_function,Linear
+xlfo_4_step_4_random,Fixed
+xlfo_4_step_5_value,0.0
+xlfo_4_step_5_glide,0.0
+xlfo_4_step_5_glide_function,Linear
+xlfo_4_step_5_random,Fixed
+xlfo_4_step_6_value,0.0
+xlfo_4_step_6_glide,0.0
+xlfo_4_step_6_glide_function,Linear
+xlfo_4_step_6_random,Fixed
+xlfo_4_step_7_value,0.0
+xlfo_4_step_7_glide,0.0
+xlfo_4_step_7_glide_function,Linear
+xlfo_4_step_7_random,Fixed
+xlfo_4_step_8_value,0.0
+xlfo_4_step_8_glide,0.0
+xlfo_4_step_8_glide_function,Linear
+xlfo_4_step_8_random,Fixed
+xlfo_4_step_9_value,0.0
+xlfo_4_step_9_glide,0.0
+xlfo_4_step_9_glide_function,Linear
+xlfo_4_step_9_random,Fixed
+xlfo_4_step_10_value,0.0
+xlfo_4_step_10_glide,0.0
+xlfo_4_step_10_glide_function,Linear
+xlfo_4_step_10_random,Fixed
+xlfo_4_step_11_value,0.0
+xlfo_4_step_11_glide,0.0
+xlfo_4_step_11_glide_function,Linear
+xlfo_4_step_11_random,Fixed
+xlfo_4_step_12_value,0.0
+xlfo_4_step_12_glide,0.0
+xlfo_4_step_12_glide_function,Linear
+xlfo_4_step_12_random,Fixed
+xlfo_4_step_13_value,0.0
+xlfo_4_step_13_glide,0.0
+xlfo_4_step_13_glide_function,Linear
+xlfo_4_step_13_random,Fixed
+xlfo_4_step_14_value,0.0
+xlfo_4_step_14_glide,0.0
+xlfo_4_step_14_glide_function,Linear
+xlfo_4_step_14_random,Fixed
+xlfo_4_step_15_value,0.0
+xlfo_4_step_15_glide,0.0
+xlfo_4_step_15_glide_function,Linear
+xlfo_4_step_15_random,Fixed
+xlfo_4_step_16_value,0.0
+xlfo_4_step_16_glide,0.0
+xlfo_4_step_16_glide_function,Linear
+xlfo_4_step_16_random,Fixed
+xlfo_5_frequency,1.0
+xlfo_5_frequency_offset,1.0
+xlfo_5_balance,0.5
+xlfo_5_phase_offset,0.0
+xlfo_5_glide,0.0
+xlfo_5_sync_mode,Free
+xlfo_5_midi_trigger,Off
+xlfo_5_snap,No Snap
+num_active_xlfo_5_steps,2.0
+xlfo_5_step_1_value,0.0
+xlfo_5_step_1_glide,0.0
+xlfo_5_step_1_glide_function,Linear
+xlfo_5_step_1_random,Fixed
+xlfo_5_step_2_value,0.0
+xlfo_5_step_2_glide,0.0
+xlfo_5_step_2_glide_function,Linear
+xlfo_5_step_2_random,Fixed
+xlfo_5_step_3_value,0.0
+xlfo_5_step_3_glide,0.0
+xlfo_5_step_3_glide_function,Linear
+xlfo_5_step_3_random,Fixed
+xlfo_5_step_4_value,0.0
+xlfo_5_step_4_glide,0.0
+xlfo_5_step_4_glide_function,Linear
+xlfo_5_step_4_random,Fixed
+xlfo_5_step_5_value,0.0
+xlfo_5_step_5_glide,0.0
+xlfo_5_step_5_glide_function,Linear
+xlfo_5_step_5_random,Fixed
+xlfo_5_step_6_value,0.0
+xlfo_5_step_6_glide,0.0
+xlfo_5_step_6_glide_function,Linear
+xlfo_5_step_6_random,Fixed
+xlfo_5_step_7_value,0.0
+xlfo_5_step_7_glide,0.0
+xlfo_5_step_7_glide_function,Linear
+xlfo_5_step_7_random,Fixed
+xlfo_5_step_8_value,0.0
+xlfo_5_step_8_glide,0.0
+xlfo_5_step_8_glide_function,Linear
+xlfo_5_step_8_random,Fixed
+xlfo_5_step_9_value,0.0
+xlfo_5_step_9_glide,0.0
+xlfo_5_step_9_glide_function,Linear
+xlfo_5_step_9_random,Fixed
+xlfo_5_step_10_value,0.0
+xlfo_5_step_10_glide,0.0
+xlfo_5_step_10_glide_function,Linear
+xlfo_5_step_10_random,Fixed
+xlfo_5_step_11_value,0.0
+xlfo_5_step_11_glide,0.0
+xlfo_5_step_11_glide_function,Linear
+xlfo_5_step_11_random,Fixed
+xlfo_5_step_12_value,0.0
+xlfo_5_step_12_glide,0.0
+xlfo_5_step_12_glide_function,Linear
+xlfo_5_step_12_random,Fixed
+xlfo_5_step_13_value,0.0
+xlfo_5_step_13_glide,0.0
+xlfo_5_step_13_glide_function,Linear
+xlfo_5_step_13_random,Fixed
+xlfo_5_step_14_value,0.0
+xlfo_5_step_14_glide,0.0
+xlfo_5_step_14_glide_function,Linear
+xlfo_5_step_14_random,Fixed
+xlfo_5_step_15_value,0.0
+xlfo_5_step_15_glide,0.0
+xlfo_5_step_15_glide_function,Linear
+xlfo_5_step_15_random,Fixed
+xlfo_5_step_16_value,0.0
+xlfo_5_step_16_glide,0.0
+xlfo_5_step_16_glide_function,Linear
+xlfo_5_step_16_random,Fixed
+xlfo_6_frequency,1.0
+xlfo_6_frequency_offset,1.0
+xlfo_6_balance,0.5
+xlfo_6_phase_offset,0.0
+xlfo_6_glide,0.0
+xlfo_6_sync_mode,Free
+xlfo_6_midi_trigger,Off
+xlfo_6_snap,No Snap
+num_active_xlfo_6_steps,2.0
+xlfo_6_step_1_value,0.0
+xlfo_6_step_1_glide,0.0
+xlfo_6_step_1_glide_function,Linear
+xlfo_6_step_1_random,Fixed
+xlfo_6_step_2_value,0.0
+xlfo_6_step_2_glide,0.0
+xlfo_6_step_2_glide_function,Linear
+xlfo_6_step_2_random,Fixed
+xlfo_6_step_3_value,0.0
+xlfo_6_step_3_glide,0.0
+xlfo_6_step_3_glide_function,Linear
+xlfo_6_step_3_random,Fixed
+xlfo_6_step_4_value,0.0
+xlfo_6_step_4_glide,0.0
+xlfo_6_step_4_glide_function,Linear
+xlfo_6_step_4_random,Fixed
+xlfo_6_step_5_value,0.0
+xlfo_6_step_5_glide,0.0
+xlfo_6_step_5_glide_function,Linear
+xlfo_6_step_5_random,Fixed
+xlfo_6_step_6_value,0.0
+xlfo_6_step_6_glide,0.0
+xlfo_6_step_6_glide_function,Linear
+xlfo_6_step_6_random,Fixed
+xlfo_6_step_7_value,0.0
+xlfo_6_step_7_glide,0.0
+xlfo_6_step_7_glide_function,Linear
+xlfo_6_step_7_random,Fixed
+xlfo_6_step_8_value,0.0
+xlfo_6_step_8_glide,0.0
+xlfo_6_step_8_glide_function,Linear
+xlfo_6_step_8_random,Fixed
+xlfo_6_step_9_value,0.0
+xlfo_6_step_9_glide,0.0
+xlfo_6_step_9_glide_function,Linear
+xlfo_6_step_9_random,Fixed
+xlfo_6_step_10_value,0.0
+xlfo_6_step_10_glide,0.0
+xlfo_6_step_10_glide_function,Linear
+xlfo_6_step_10_random,Fixed
+xlfo_6_step_11_value,0.0
+xlfo_6_step_11_glide,0.0
+xlfo_6_step_11_glide_function,Linear
+xlfo_6_step_11_random,Fixed
+xlfo_6_step_12_value,0.0
+xlfo_6_step_12_glide,0.0
+xlfo_6_step_12_glide_function,Linear
+xlfo_6_step_12_random,Fixed
+xlfo_6_step_13_value,0.0
+xlfo_6_step_13_glide,0.0
+xlfo_6_step_13_glide_function,Linear
+xlfo_6_step_13_random,Fixed
+xlfo_6_step_14_value,0.0
+xlfo_6_step_14_glide,0.0
+xlfo_6_step_14_glide_function,Linear
+xlfo_6_step_14_random,Fixed
+xlfo_6_step_15_value,0.0
+xlfo_6_step_15_glide,0.0
+xlfo_6_step_15_glide_function,Linear
+xlfo_6_step_15_random,Fixed
+xlfo_6_step_16_value,0.0
+xlfo_6_step_16_glide,0.0
+xlfo_6_step_16_glide_function,Linear
+xlfo_6_step_16_random,Fixed
+num_active_egs,0.0
+eg_1_delay,0.0
+eg_1_range,Normal
+eg_1_threshold,-24.0
+eg_1_triggering,Normal Input
+eg_1_attack,1.451
+eg_1_attack_slope,0.5
+eg_1_decay,1.451
+eg_1_decay_slope,0.5
+eg_1_sustain,0.0
+eg_1_hold,0.0
+eg_1_release,1.451
+eg_1_release_slope,0.5
+eg_2_delay,0.0
+eg_2_range,Normal
+eg_2_threshold,-24.0
+eg_2_triggering,Normal Input
+eg_2_attack,1.451
+eg_2_attack_slope,0.5
+eg_2_decay,1.451
+eg_2_decay_slope,0.5
+eg_2_sustain,0.0
+eg_2_hold,0.0
+eg_2_release,1.451
+eg_2_release_slope,0.5
+eg_3_delay,0.0
+eg_3_range,Normal
+eg_3_threshold,-24.0
+eg_3_triggering,Normal Input
+eg_3_attack,1.451
+eg_3_attack_slope,0.5
+eg_3_decay,1.451
+eg_3_decay_slope,0.5
+eg_3_sustain,0.0
+eg_3_hold,0.0
+eg_3_release,1.451
+eg_3_release_slope,0.5
+eg_4_delay,0.0
+eg_4_range,Normal
+eg_4_threshold,-24.0
+eg_4_triggering,Normal Input
+eg_4_attack,1.451
+eg_4_attack_slope,0.5
+eg_4_decay,1.451
+eg_4_decay_slope,0.5
+eg_4_sustain,0.0
+eg_4_hold,0.0
+eg_4_release,1.451
+eg_4_release_slope,0.5
+eg_5_delay,0.0
+eg_5_range,Normal
+eg_5_threshold,-24.0
+eg_5_triggering,Normal Input
+eg_5_attack,1.451
+eg_5_attack_slope,0.5
+eg_5_decay,1.451
+eg_5_decay_slope,0.5
+eg_5_sustain,0.0
+eg_5_hold,0.0
+eg_5_release,1.451
+eg_5_release_slope,0.5
+eg_6_delay,0.0
+eg_6_range,Normal
+eg_6_threshold,-24.0
+eg_6_triggering,Normal Input
+eg_6_attack,1.451
+eg_6_attack_slope,0.5
+eg_6_decay,1.451
+eg_6_decay_slope,0.5
+eg_6_sustain,0.0
+eg_6_hold,0.0
+eg_6_release,1.451
+eg_6_release_slope,0.5
+num_active_efs,3.0
+ef_1_input,Normal Input
+ef_1_mode,Envelope
+ef_1_attack,179.7
+ef_1_release,905.6
+ef_2_input,Normal Input
+ef_2_mode,Envelope
+ef_2_attack,9.68
+ef_2_release,119.6
+ef_3_input,Normal Input
+ef_3_mode,Envelope
+ef_3_attack,1.0
+ef_3_release,99.79
+ef_4_input,Normal Input
+ef_4_mode,Envelope
+ef_4_attack,1.0
+ef_4_release,50.0
+num_active_midi_sources,0.0
+midi_source_1_input,Mod Wheel
+midi_source_1_controller_number,0.0
+midi_source_1_response_curve,Linear
+midi_source_2_input,Mod Wheel
+midi_source_2_controller_number,0.0
+midi_source_2_response_curve,Linear
+midi_source_3_input,Mod Wheel
+midi_source_3_controller_number,0.0
+midi_source_3_response_curve,Linear
+midi_source_4_input,Mod Wheel
+midi_source_4_controller_number,0.0
+midi_source_4_response_curve,Linear
+midi_source_5_input,Mod Wheel
+midi_source_5_controller_number,0.0
+midi_source_5_response_curve,Linear
+midi_source_6_input,Mod Wheel
+midi_source_6_controller_number,0.0
+midi_source_6_response_curve,Linear
+midi_source_7_input,Mod Wheel
+midi_source_7_controller_number,0.0
+midi_source_7_response_curve,Linear
+midi_source_8_input,Mod Wheel
+midi_source_8_controller_number,0.0
+midi_source_8_response_curve,Linear
+midi_source_9_input,Mod Wheel
+midi_source_9_controller_number,0.0
+midi_source_9_response_curve,Linear
+midi_source_10_input,Mod Wheel
+midi_source_10_controller_number,0.0
+midi_source_10_response_curve,Linear
+audition_signal,Output
+channel_mode,Mid/Side
+processing_mode,Minimum Phase
+unrestricted_feedback,False
+high_quality_mode,Good
+receive_midi,False
+num_active_slots,26.0
+slot_1_source,EF 2
+slot_1_level,0.08
+slot_1_bypassed,Normal
+slot_1_inverted,Inverted
+slot_1_target,EF 1 Release
+slot_2_source,EF 2
+slot_2_level,0.08
+slot_2_bypassed,Normal
+slot_2_inverted,Normal
+slot_2_target,EF 1 Attack
+slot_3_source,EF 1
+slot_3_level,0.05
+slot_3_bypassed,Normal
+slot_3_inverted,Inverted
+slot_3_target,B1 Mid
+slot_4_source,EF 1
+slot_4_level,0.0
+slot_4_bypassed,Normal
+slot_4_inverted,Inverted
+slot_4_target,B1 Treble
+slot_5_source,EF 2
+slot_5_level,0.015
+slot_5_bypassed,Normal
+slot_5_inverted,Inverted
+slot_5_target,Slot 4 Level
+slot_6_source,EF 1
+slot_6_level,0.35
+slot_6_bypassed,Normal
+slot_6_inverted,Normal
+slot_6_target,B1 Drive
+slot_7_source,EF 3
+slot_7_level,0.24
+slot_7_bypassed,Normal
+slot_7_inverted,Inverted
+slot_7_target,Slot 6 Level
+slot_8_source,EF 3
+slot_8_level,0.005
+slot_8_bypassed,Normal
+slot_8_inverted,Inverted
+slot_8_target,EF 2 Attack
+slot_9_source,EF 3
+slot_9_level,0.001
+slot_9_bypassed,Normal
+slot_9_inverted,Inverted
+slot_9_target,B1 Bass
+slot_10_source,EF 1
+slot_10_level,0.04
+slot_10_bypassed,Normal
+slot_10_inverted,Inverted
+slot_10_target,B1 Presence
+slot_11_source,EF 3
+slot_11_level,0.2
+slot_11_bypassed,Normal
+slot_11_inverted,Inverted
+slot_11_target,Slot 10 Level
+slot_12_source,EF 3
+slot_12_level,0.023
+slot_12_bypassed,Normal
+slot_12_inverted,Normal
+slot_12_target,Slot 4 Level
+slot_13_source,EF 1
+slot_13_level,0.01
+slot_13_bypassed,Normal
+slot_13_inverted,Normal
+slot_13_target,B1 Output Pan
+slot_14_source,EF 3
+slot_14_level,0.03
+slot_14_bypassed,Normal
+slot_14_inverted,Inverted
+slot_14_target,Slot 13 Level
+slot_15_source,EF 1
+slot_15_level,0.001
+slot_15_bypassed,Normal
+slot_15_inverted,Normal
+slot_15_target,Slot 9 Level
+slot_16_source,EF 1
+slot_16_level,0.121
+slot_16_bypassed,Normal
+slot_16_inverted,Inverted
+slot_16_target,B1 Mix
+slot_17_source,EF 3
+slot_17_level,0.195
+slot_17_bypassed,Normal
+slot_17_inverted,Inverted
+slot_17_target,Slot 16 Level
+slot_18_source,XY 1 Ver
+slot_18_level,0.276
+slot_18_bypassed,Normal
+slot_18_inverted,Normal
+slot_18_target,Slot 6 Level
+slot_19_source,XY 1 Ver
+slot_19_level,0.178
+slot_19_bypassed,Normal
+slot_19_inverted,Normal
+slot_19_target,B1 Drive
+slot_20_source,EF 3
+slot_20_level,0.0
+slot_20_bypassed,Normal
+slot_20_inverted,Inverted
+slot_20_target,B1 Dynamics
+slot_21_source,XY 1 Ver
+slot_21_level,0.05
+slot_21_bypassed,Normal
+slot_21_inverted,Normal
+slot_21_target,Slot 20 Level
+slot_22_source,XY 1 Ver
+slot_22_level,0.1
+slot_22_bypassed,Normal
+slot_22_inverted,Normal
+slot_22_target,B1 Dynamics
+slot_23_source,XY 1 Ver
+slot_23_level,0.16
+slot_23_bypassed,Normal
+slot_23_inverted,Normal
+slot_23_target,Input Gain
+slot_24_source,XY 1 Ver
+slot_24_level,0.157
+slot_24_bypassed,Normal
+slot_24_inverted,Inverted
+slot_24_target,Output Gain
+slot_25_source,XY 1 Ver
+slot_25_level,0.203
+slot_25_bypassed,Normal
+slot_25_inverted,Normal
+slot_25_target,Slot 16 Level
+slot_26_source,XY 1 Ver
+slot_26_level,0.069
+slot_26_bypassed,Normal
+slot_26_inverted,Normal
+slot_26_target,Slot 17 Level
+slot_27_source,< Source >
+slot_27_level,0.16
+slot_27_bypassed,Normal
+slot_27_inverted,Normal
+slot_27_target,< Target >
+slot_28_source,< Source >
+slot_28_level,0.16
+slot_28_bypassed,Normal
+slot_28_inverted,Normal
+slot_28_target,< Target >
+slot_29_source,< Source >
+slot_29_level,0.16
+slot_29_bypassed,Normal
+slot_29_inverted,Normal
+slot_29_target,< Target >
+slot_30_source,< Source >
+slot_30_level,0.16
+slot_30_bypassed,Normal
+slot_30_inverted,Normal
+slot_30_target,< Target >
+slot_31_source,< Source >
+slot_31_level,0.16
+slot_31_bypassed,Normal
+slot_31_inverted,Normal
+slot_31_target,< Target >
+slot_32_source,< Source >
+slot_32_level,0.16
+slot_32_bypassed,Normal
+slot_32_inverted,Normal
+slot_32_target,< Target >
+slot_33_source,< Source >
+slot_33_level,0.16
+slot_33_bypassed,Normal
+slot_33_inverted,Normal
+slot_33_target,< Target >
+slot_34_source,< Source >
+slot_34_level,0.16
+slot_34_bypassed,Normal
+slot_34_inverted,Normal
+slot_34_target,< Target >
+slot_35_source,< Source >
+slot_35_level,0.16
+slot_35_bypassed,Normal
+slot_35_inverted,Normal
+slot_35_target,< Target >
+slot_36_source,< Source >
+slot_36_level,0.16
+slot_36_bypassed,Normal
+slot_36_inverted,Normal
+slot_36_target,< Target >
+slot_37_source,< Source >
+slot_37_level,0.16
+slot_37_bypassed,Normal
+slot_37_inverted,Normal
+slot_37_target,< Target >
+slot_38_source,< Source >
+slot_38_level,0.16
+slot_38_bypassed,Normal
+slot_38_inverted,Normal
+slot_38_target,< Target >
+slot_39_source,< Source >
+slot_39_level,0.16
+slot_39_bypassed,Normal
+slot_39_inverted,Normal
+slot_39_target,< Target >
+slot_40_source,< Source >
+slot_40_level,0.16
+slot_40_bypassed,Normal
+slot_40_inverted,Normal
+slot_40_target,< Target >
+slot_41_source,< Source >
+slot_41_level,0.16
+slot_41_bypassed,Normal
+slot_41_inverted,Normal
+slot_41_target,< Target >
+slot_42_source,< Source >
+slot_42_level,0.16
+slot_42_bypassed,Normal
+slot_42_inverted,Normal
+slot_42_target,< Target >
+slot_43_source,< Source >
+slot_43_level,0.16
+slot_43_bypassed,Normal
+slot_43_inverted,Normal
+slot_43_target,< Target >
+slot_44_source,< Source >
+slot_44_level,0.16
+slot_44_bypassed,Normal
+slot_44_inverted,Normal
+slot_44_target,< Target >
+slot_45_source,< Source >
+slot_45_level,0.16
+slot_45_bypassed,Normal
+slot_45_inverted,Normal
+slot_45_target,< Target >
+slot_46_source,< Source >
+slot_46_level,0.16
+slot_46_bypassed,Normal
+slot_46_inverted,Normal
+slot_46_target,< Target >
+slot_47_source,< Source >
+slot_47_level,0.16
+slot_47_bypassed,Normal
+slot_47_inverted,Normal
+slot_47_target,< Target >
+slot_48_source,< Source >
+slot_48_level,0.16
+slot_48_bypassed,Normal
+slot_48_inverted,Normal
+slot_48_target,< Target >
+slot_49_source,< Source >
+slot_49_level,0.16
+slot_49_bypassed,Normal
+slot_49_inverted,Normal
+slot_49_target,< Target >
+slot_50_source,< Source >
+slot_50_level,0.16
+slot_50_bypassed,Normal
+slot_50_inverted,Normal
+slot_50_target,< Target >
+host_bypass,Not Bypassed
+internal,-
+midi_cc,-
+pitch_bend,-
+channel_pressure,-

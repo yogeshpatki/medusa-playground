@@ -1,0 +1,156 @@
+band_1_state,Unused
+band_1_low_crossover,30.0
+band_1_low_slope,24.0 dB/oct
+band_1_high_crossover,30000.0
+band_1_high_slope,24.0 dB/oct
+band_1_dynamics_mode,Compression
+band_1_threshold,-18.0
+band_1_range,0.0
+band_1_ratio,4.00:1
+band_1_attack,20.0
+band_1_release,20.0
+band_1_knee,24.0
+band_1_lookahead,1.0
+band_1_level,0.0
+band_1_pan,Mid: 0 dB / Side: 0 dB
+band_1_side_chain_filtering,Band
+band_1_side_chain_low_frequency,30.0
+band_1_side_chain_high_frequency,30000.0
+band_1_side_chain_input,Plug-in Input
+band_1_stereo_link,100%
+band_1_stereo_link_mode,Mid
+band_1_solo_mute_state,Normal
+band_2_state,Unused
+band_2_low_crossover,30.0
+band_2_low_slope,24.0 dB/oct
+band_2_high_crossover,30000.0
+band_2_high_slope,24.0 dB/oct
+band_2_dynamics_mode,Compression
+band_2_threshold,-18.0
+band_2_range,0.0
+band_2_ratio,4.00:1
+band_2_attack,20.0
+band_2_release,20.0
+band_2_knee,24.0
+band_2_lookahead,1.0
+band_2_level,0.0
+band_2_pan,Mid: 0 dB / Side: 0 dB
+band_2_side_chain_filtering,Band
+band_2_side_chain_low_frequency,30.0
+band_2_side_chain_high_frequency,30000.0
+band_2_side_chain_input,Plug-in Input
+band_2_stereo_link,100%
+band_2_stereo_link_mode,Mid
+band_2_solo_mute_state,Normal
+band_3_state,Unused
+band_3_low_crossover,30.0
+band_3_low_slope,24.0 dB/oct
+band_3_high_crossover,30000.0
+band_3_high_slope,24.0 dB/oct
+band_3_dynamics_mode,Compression
+band_3_threshold,-18.0
+band_3_range,0.0
+band_3_ratio,4.00:1
+band_3_attack,20.0
+band_3_release,20.0
+band_3_knee,24.0
+band_3_lookahead,1.0
+band_3_level,0.0
+band_3_pan,Mid: 0 dB / Side: 0 dB
+band_3_side_chain_filtering,Band
+band_3_side_chain_low_frequency,30.0
+band_3_side_chain_high_frequency,30000.0
+band_3_side_chain_input,Plug-in Input
+band_3_stereo_link,100%
+band_3_stereo_link_mode,Mid
+band_3_solo_mute_state,Normal
+band_4_state,Unused
+band_4_low_crossover,30.0
+band_4_low_slope,24.0 dB/oct
+band_4_high_crossover,30000.0
+band_4_high_slope,24.0 dB/oct
+band_4_dynamics_mode,Compression
+band_4_threshold,-18.0
+band_4_range,0.0
+band_4_ratio,4.00:1
+band_4_attack,20.0
+band_4_release,20.0
+band_4_knee,24.0
+band_4_lookahead,1.0
+band_4_level,0.0
+band_4_pan,Mid: 0 dB / Side: 0 dB
+band_4_side_chain_filtering,Band
+band_4_side_chain_low_frequency,30.0
+band_4_side_chain_high_frequency,30000.0
+band_4_side_chain_input,Plug-in Input
+band_4_stereo_link,100%
+band_4_stereo_link_mode,Mid
+band_4_solo_mute_state,Normal
+band_5_state,Unused
+band_5_low_crossover,30.0
+band_5_low_slope,24.0 dB/oct
+band_5_high_crossover,30000.0
+band_5_high_slope,24.0 dB/oct
+band_5_dynamics_mode,Compression
+band_5_threshold,-18.0
+band_5_range,0.0
+band_5_ratio,4.00:1
+band_5_attack,20.0
+band_5_release,20.0
+band_5_knee,24.0
+band_5_lookahead,1.0
+band_5_level,0.0
+band_5_pan,Mid: 0 dB / Side: 0 dB
+band_5_side_chain_filtering,Band
+band_5_side_chain_low_frequency,30.0
+band_5_side_chain_high_frequency,30000.0
+band_5_side_chain_input,Plug-in Input
+band_5_stereo_link,100%
+band_5_stereo_link_mode,Mid
+band_5_solo_mute_state,Normal
+band_6_state,Unused
+band_6_low_crossover,30.0
+band_6_low_slope,24.0 dB/oct
+band_6_high_crossover,30000.0
+band_6_high_slope,24.0 dB/oct
+band_6_dynamics_mode,Compression
+band_6_threshold,-18.0
+band_6_range,0.0
+band_6_ratio,4.00:1
+band_6_attack,20.0
+band_6_release,20.0
+band_6_knee,24.0
+band_6_lookahead,1.0
+band_6_level,0.0
+band_6_pan,Mid: 0 dB / Side: 0 dB
+band_6_side_chain_filtering,Band
+band_6_side_chain_low_frequency,30.0
+band_6_side_chain_high_frequency,30000.0
+band_6_side_chain_input,Plug-in Input
+band_6_stereo_link,100%
+band_6_stereo_link_mode,Mid
+band_6_solo_mute_state,Normal
+audition_side_chain,Off
+mix,100.0
+input_level,0.0
+input_pan,Left: 0 dB / Right: 0 dB
+output_level,0.0
+output_pan,Left: 0 dB / Right: 0 dB
+bypass,Not Bypassed
+processing_mode,Dynamic Phase
+oversampling,Off
+lookahead_enabled,True
+expert_mode,False
+midi_state,False
+display_range,12.0
+analyzer,Pre+Post
+analyzer_resolution,Medium
+analyzer_speed,Medium
+analyzer_tilt,4.5 dB/octave
+analyzer_freeze,False
+analyzer_side_chain,False
+host_bypass,Not Bypassed
+internal,-
+midi_cc,-
+pitch_bend,-
+channel_pressure,-

@@ -4,3 +4,4 @@
 .mixes
 .vscode
 .playground
+~*.xlsx

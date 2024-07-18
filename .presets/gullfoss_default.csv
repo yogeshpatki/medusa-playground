@@ -1,0 +1,10 @@
+recover,0.0
+tame,0.0
+bias,0.0
+brighten,0.0
+boost_db,0.0
+above_hz,20.0
+below_hz,20000.0
+gain_db,0.0
+bypass,False
+sidechain,False
