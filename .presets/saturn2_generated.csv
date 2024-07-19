@@ -1,7 +1,7 @@
 input_gain,16.0
-input_pan,Left: 0 dB / Right: 0 dB
+input_pan,Mid: 0 dB / Side: 0 dB
 output_gain,-15.98
-output_pan,Left: 0 dB / Right: 0 dB
+output_pan,Mid: 0 dB / Side: 0 dB
 bypass,Not Bypassed
 mix,100.0
 num_active_bands,1.0
@@ -17,7 +17,7 @@ band_1_treble,0.0
 band_1_presence,0.0
 band_1_mix,100.0
 band_1_level,0.22
-band_1_pan,Left: 0 dB / Right: 0 dB
+band_1_pan,Mid: -0.12 dB / Side: 0 dB
 band_1_enabled,True
 band_1_state,Normal
 band_1_crossover_frequency,40.0
@@ -34,7 +34,7 @@ band_2_treble,0.0
 band_2_presence,0.0
 band_2_mix,100.0
 band_2_level,0.0
-band_2_pan,Left: 0 dB / Right: 0 dB
+band_2_pan,Mid: 0 dB / Side: 0 dB
 band_2_enabled,True
 band_2_state,Normal
 band_2_crossover_frequency,40.0
@@ -51,7 +51,7 @@ band_3_treble,0.0
 band_3_presence,0.0
 band_3_mix,100.0
 band_3_level,0.0
-band_3_pan,Left: 0 dB / Right: 0 dB
+band_3_pan,Mid: 0 dB / Side: 0 dB
 band_3_enabled,True
 band_3_state,Normal
 band_3_crossover_frequency,40.0
@@ -68,7 +68,7 @@ band_4_treble,0.0
 band_4_presence,0.0
 band_4_mix,100.0
 band_4_level,0.0
-band_4_pan,Left: 0 dB / Right: 0 dB
+band_4_pan,Mid: 0 dB / Side: 0 dB
 band_4_enabled,True
 band_4_state,Normal
 band_4_crossover_frequency,40.0
@@ -85,7 +85,7 @@ band_5_treble,0.0
 band_5_presence,0.0
 band_5_mix,100.0
 band_5_level,0.0
-band_5_pan,Left: 0 dB / Right: 0 dB
+band_5_pan,Mid: 0 dB / Side: 0 dB
 band_5_enabled,True
 band_5_state,Normal
 band_5_crossover_frequency,40.0
@@ -102,7 +102,7 @@ band_6_treble,0.0
 band_6_presence,0.0
 band_6_mix,100.0
 band_6_level,0.0
-band_6_pan,Left: 0 dB / Right: 0 dB
+band_6_pan,Mid: 0 dB / Side: 0 dB
 band_6_enabled,True
 band_6_state,Normal
 band_6_crossover_frequency,40.0
