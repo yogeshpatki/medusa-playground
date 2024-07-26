@@ -34,52 +34,66 @@ def normalize(audio):
     return normalized
 
 def combine_signals(original, processed):
-    combined = original + processed
-    return normalize(combined)
+    combined = (original + processed) / 2
+    return combined
 
-config = dotenv_values(".env") 
+# config = dotenv_values(".env") 
 
-pluginsDir = config['PLUGIN_HOME']
-tracksDir = config['TRACKS_HOME']
-mixDir = config['MIX_HOME']
+# pluginsDir = config['PLUGIN_HOME']
+# tracksDir = config['TRACKS_HOME']
+# mixDir = config['MIX_HOME']
+# pgDir = config['MIX_HOME']
 
-proc2_path = pluginsDir + 'FabFilter Pro-C 2.vst3'
-proc2 = load_plugin(proc2_path)
+# gullfoss_path = pluginsDir + 'Gullfoss.vst3'
+# gullfoss = load_plugin(gullfoss_path)
+# gullfoss.tame = 30
+# gullfoss.boost_db = -3.5
+# # proc2_path = pluginsDir + 'FabFilter Pro-C 2.vst3'
+# # proc2 = load_plugin(proc2_path)
 
-proc2.parameters
-proc2.threshold = -48.3
-proc2.auto_gain = True
-proc2.range = 4
-proc2.show_editor()
+# # proc2.parameters
+# # proc2.threshold = -48.3
+# # proc2.auto_gain = True
+# # proc2.range = 4
+# # proc2.show_editor()
 
-samplerate = 44100
-f = AudioFile('./.playground/original.wav')
-s = AudioFile('./.playground/sidechain.wav')
-f.seek(67 * f.samplerate)  # Seek to the 67th second
-s.seek(67 * s.samplerate)  # Seek to the 67th second
-samplerate = f.samplerate
 
-audio = f.read(10 * f.samplerate)  # Read 10 seconds of audio
-sidechain = s.read(10 * s.samplerate)  # Read 10 seconds of audio
-# plot_waveforms(audio[0], title1='Bass')
-# plot_waveforms(sidechain[0], title1='Snare')
-sidechainBoard = Pedalboard([proc2])
-print(np.min(sidechain), np.max(sidechain))
-sidechain_output = sidechainBoard(sidechain, samplerate, reset=False)
+# a1 = AudioFile(pgDir + 'Vo.wav')
+# samplerate = a1.samplerate
+# a2 = AudioFile(pgDir + 'Violas.wav')
+# a3 = AudioFile(pgDir + 'Violins.wav')
 
-gain_reduction = calculate_gain_reduction(sidechain, sidechain_output)
-gain_reduction_db = 20 * np.log10(gain_reduction)
-smooth_gain_reduction = smooth_curve(gain_reduction[0], window_size=6001)
-smooth_gain_reduction_db = 20 * np.log10(smooth_gain_reduction)
-plot_waveforms(gain_reduction_db[0], title1='Gain Reduction')
-plot_waveforms(smooth_gain_reduction_db, title1='Smooth Gain Reduction')
-print(np.min(gain_reduction), np.max(gain_reduction))
-output1 = apply_gain_reduction(audio, [smooth_gain_reduction])
-# plot_waveforms(audio[0], title1='Audio Input')
-# plot_waveforms(sidechain[0], title1='Sidechain Input')
-# plot_waveforms(output1[0], title1='Sidechain Applied Audio')
 
-combined_signal = combine_signals(sidechain, output1)
-with AudioFile('./.playground/ag-sc-py-op.wav', 'w', samplerate, audio.shape[0]) as f:
-  f.write(combined_signal)
-plot_waveforms(combined_signal[0], title1='Output')
+# a1.seek(180 * samplerate)  # Seek to the 180th second
+# a2.seek(180 * samplerate)  # Seek to the 180th second
+# a3.seek(180 * samplerate)  # Seek to the 180th second
+
+
+# audio1 = a1.read(15 * samplerate)  # Read 15 seconds of audio
+# audio2 = a2.read(15 * samplerate)  # Read 15 seconds of audio
+# audio3 = a3.read(15 * samplerate)  # Read 15 seconds of audio
+
+# audio = (audio1 + audio2 + audio3) / 3
+# sidechain = (audio1 + audio2 + audio3) / 3
+
+# sidechainBoard = Pedalboard([gullfoss])
+# gullfoss.show_editor()
+# sidechain_output = sidechainBoard(sidechain, samplerate, reset=False)
+# gullfoss.show_editor()
+
+# gain_reduction = calculate_gain_reduction(sidechain, sidechain_output)
+# gain_reduction_db = 20 * np.log10(gain_reduction)
+# smooth_gain_reduction = smooth_curve(gain_reduction[0], window_size=6001)
+# smooth_gain_reduction_db = 20 * np.log10(smooth_gain_reduction)
+# plot_waveforms(gain_reduction_db[0], title1='Gain Reduction')
+# plot_waveforms(smooth_gain_reduction_db, title1='Smooth Gain Reduction')
+# # print(np.min(gain_reduction), np.max(gain_reduction))
+# output1 = apply_gain_reduction(audio, [smooth_gain_reduction])
+# # plot_waveforms(audio[0], title1='Audio Input')
+# # plot_waveforms(sidechain[0], title1='Sidechain Input')
+# # plot_waveforms(output1[0], title1='Sidechain Applied Audio')
+
+# combined_signal = combine_signals(sidechain, output1)
+# with AudioFile('./.playground/ag-sc-py-op.wav', 'w', samplerate, audio.shape[0]) as f:
+#   f.write(combined_signal)
+# plot_waveforms(combined_signal[0], title1='Output')
